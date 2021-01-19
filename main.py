@@ -1,6 +1,7 @@
 import random
 from guess import Guess
 
+
 def guess_the_number():
 
     Guess.number = random.randint(1, 100)
