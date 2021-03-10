@@ -1,0 +1,3 @@
+﻿  NumberGuess.cpp
+C:\Users\Miles James\Code Projects\Number Guess\NumberGuess.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Number Guess.vcxproj -> C:\Users\Miles James\Code Projects\Number Guess\Debug\Number Guess.exe
